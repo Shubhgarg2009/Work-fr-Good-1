@@ -1,0 +1,13 @@
+h1 {
+    text-decoration: blue;
+}
+.name{
+    color:white;  
+    justify-content: space-between;
+    background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAACxCAMAAAAh3/JWAAAAA1BMVEUvLy8tpjkzAAAASElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIALA8UNAAFusnLHAAAAAElFTkSuQmCC");
+
+}
+.name h3{
+    color: lightblue;
+    justify-content: space-between;
+}
